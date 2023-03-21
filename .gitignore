@@ -3,3 +3,4 @@ aladdinpersson/datasets
 15_minutes/data
 metal/data
 **/data
+**/__pycache__
