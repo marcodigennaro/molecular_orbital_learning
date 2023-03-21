@@ -1,5 +1,3 @@
-aladdinpersson/runs
-aladdinpersson/datasets
-15_minutes/data
+**/runs
 **/data
 **/__pycache__
